@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Thumbnail Assistant",
+  "description": "An AI-powered web application with two main tools. The first tool generates creative and powerful prompts for YouTube thumbnails. The second tool uses a prompt to generate a high-quality thumbnail image with a fixed 16:9 aspect ratio.",
+  "requestFramePermissions": []
+}
